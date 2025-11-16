@@ -1,7 +1,7 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-11-15T07:47:45Z
+# 更新时间: 2025-11-16T03:44:16Z
 # 说明: 本文件为自动生成的 Clash DIRECT 规则（behavior: domain）。
 #########################################
 payload:
@@ -11984,6 +11984,7 @@ payload:
   - '+.anyview.net'
   - '+.anyway.fm'
   - '+.anyway.red'
+  - '+.anywlan.com'
   - '+.anywood.com'
   - '+.anyxz.com'
   - '+.anzerclub.com'
