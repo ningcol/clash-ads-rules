@@ -1,7 +1,7 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-11-17T11:37:25Z
+# 更新时间: 2025-11-17T12:38:41Z
 # 说明: 本文件为自动生成的 Clash DIRECT 规则（behavior: domain）。
 #########################################
 payload:
@@ -116333,7 +116333,6 @@ payload:
   - 'content.googleadapis.com'
   - 'crashlyticsreports-pa.googleapis.com'
   - 'crl-lb.apple.com.akadns.net'
-  - 'crl.globalsign.net'
   - 'crl.kaspersky.com'
   - 'crl.pki.goog'
   - 'crls.pki.goog'
@@ -116374,7 +116373,6 @@ payload:
   - 'dnl-17.geo.kaspersky.com'
   - 'dnl-18.geo.kaspersky.com'
   - 'dnl-19.geo.kaspersky.com'
-  - 'docs.microsoft.com'
   - 'doubleclick-cn.net'
   - 'doubleclick.net'
   - 'download.microsoft.com'
@@ -116515,7 +116513,6 @@ payload:
   - 'o.pki.goog'
   - 'ocsp.pki.goog'
   - 'oemsoc.download.prss.microsoft.com'
-  - 'officecdn.microsoft.com'
   - 'opencourse.pku.edu.cn'
   - 'osxapps.itunes.apple.com'
   - 'p.cdn.persaas.dell.com'
@@ -116684,7 +116681,6 @@ payload:
   - 'www.entrust.cn'
   - 'www.gstatic.com'
   - 'www.libvideo.com'
-  - 'www.microsoft.com'
   - 'www.pxcc.com'
   - 'www.recaptcha.net'
   - 'www.support.apple.com'

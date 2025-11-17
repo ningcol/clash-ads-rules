@@ -1,7 +1,7 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-11-17T11:37:24Z
+# 更新时间: 2025-11-17T12:38:40Z
 # 说明: 本文件为自动生成的 Clash PROXY 规则（behavior: domain）。
 #########################################
 payload:
@@ -1100,7 +1100,6 @@ payload:
   - '+.akadeem.net'
   - '+.akademiye.org'
   - '+.akadns.com'
-  - '+.akadns.net'
   - '+.akadns6.net'
   - '+.akaeai.com'
   - '+.akafms.net'
@@ -2670,7 +2669,6 @@ payload:
   - '+.azuredns-prd.org'
   - '+.azureedge-test.net'
   - '+.azurefd.net'
-  - '+.azureiotcentral.com'
   - '+.azureiotsolutions.com'
   - '+.azureiotsuite.com'
   - '+.azureplanetscale.info'
@@ -3461,11 +3459,9 @@ payload:
   - '+.binancezh.sh'
   - '+.binancezh.top'
   - '+.bing'
-  - '+.bing.net'
   - '+.bing123.com'
   - '+.bingads.com'
   - '+.bingagencyawards.com'
-  - '+.bingapis.com'
   - '+.bingapistatistics.com'
   - '+.bingoporno.com'
   - '+.bingparachute.com'
@@ -11086,7 +11082,6 @@ payload:
   - '+.hotladyhere.com'
   - '+.hotmail'
   - '+.hotmail.co'
-  - '+.hotmail.com'
   - '+.hotmail.eu'
   - '+.hotmail.net'
   - '+.hotmail.org'
@@ -25564,7 +25559,6 @@ payload:
   - 'cloudsync-prod.s3.amazonaws.com'
   - 'community.oneplus.com'
   - 'configuration-lb.ls-apple.com.akadns.net'
-  - 'crl.microsoft.com'
   - 'crl.versign.net'
   - 'csis-prod.s3.amazonaws.com'
   - 'd1g1f25tn8m2e6.cloudfront.net'
@@ -25709,7 +25703,6 @@ payload:
   - 'medone-education.thieme.com'
   - 'misa-prod.s3.ap-northeast-1.amazonaws.com'
   - 'mobilelive-hamivideo.cdn.hinet.net'
-  - 'mscrl.microsoft.com'
   - 'msh.amazon.co.uk'
   - 'mtalk-dev.google.com'
   - 'mtalk-staging.google.com'
@@ -25743,7 +25736,6 @@ payload:
   - 'ocsp.microsoft.com'
   - 'officecdn-microsoft-com.akamaized.net'
   - 'onekey.zendesk.com'
-  - 'oneocsp.microsoft.com'
   - 'ood.opsource.net'
   - 'openaiapi-site.azureedge.net'
   - 'openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net'
