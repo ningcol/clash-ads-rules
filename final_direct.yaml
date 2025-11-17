@@ -1,7 +1,7 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-11-17T09:41:14Z
+# 更新时间: 2025-11-17T10:01:46Z
 # 说明: 本文件为自动生成的 Clash DIRECT 规则（behavior: domain）。
 #########################################
 payload:
@@ -39863,7 +39863,6 @@ payload:
   - '+.gsnhcg.com'
   - '+.gsnytz.com'
   - '+.gsp11-cn.ls.apple.com'
-  - '+.gsp12-cn.ls.apple.com'
   - '+.gspaceteam.com'
   - '+.gspst.com'
   - '+.gspt.com'
