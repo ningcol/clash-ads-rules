@@ -1,11 +1,10 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-11-17T12:38:40Z
+# 更新时间: 2025-11-17T13:11:53Z
 # 说明: 本文件为自动生成的 Clash PROXY 规则（behavior: domain）。
 #########################################
 payload:
-  - '*.google.com'
   - '+.000webhost.com'
   - '+.01.org'
   - '+.02weqj32.com'
@@ -10303,8 +10302,6 @@ payload:
   - '+.gsearch.media'
   - '+.gslink.us'
   - '+.gsrc.io'
-  - '+.gstatic-cn.com'
-  - '+.gstatic.com'
   - '+.gsuite.com'
   - '+.gt536.top'
   - '+.gtm.oasisfeng.com'
