@@ -1,7 +1,7 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-11-17T08:52:12Z
+# 更新时间: 2025-11-17T09:41:14Z
 # 说明: 本文件为自动生成的 Clash DIRECT 规则（behavior: domain）。
 #########################################
 payload:
@@ -13374,7 +13374,6 @@ payload:
   - '+.azt365.com'
   - '+.azure-wave.com'
   - '+.azure.cc'
-  - '+.azure.com'
   - '+.azureflying.com'
   - '+.azuremigrate.download.prss.microsoft.com'
   - '+.azuremigratetest.download.prss.microsoft.com'
