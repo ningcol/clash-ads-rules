@@ -1,7 +1,7 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-11-19T03:40:04Z
+# 更新时间: 2025-11-19T08:55:17Z
 # 说明: 本文件为自动生成的 Clash DIRECT 规则（behavior: domain）。
 #########################################
 payload:
@@ -46438,6 +46438,7 @@ payload:
   - '+.hikerfans.com'
   - '+.hikihj.com'
   - '+.hikinginternational.com'
+  - '+.hikiot.com'
   - '+.hikiot.com.net'
   - '+.hiklife.com'
   - '+.hikmall.com'
