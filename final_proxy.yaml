@@ -1,7 +1,7 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-11-20T11:27:29Z
+# 更新时间: 2025-11-20T13:49:16Z
 # 说明: 本文件为自动生成的 Clash PROXY 规则（behavior: domain）。
 #########################################
 payload:
@@ -1452,7 +1452,6 @@ payload:
   - '+.amazonaws-china.com'
   - '+.amazonaws.biz'
   - '+.amazonaws.co.uk'
-  - '+.amazonaws.com'
   - '+.amazonaws.info'
   - '+.amazonaws.net'
   - '+.amazonaws.org'

@@ -1,7 +1,7 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-11-20T11:27:30Z
+# 更新时间: 2025-11-20T13:49:17Z
 # 说明: 本文件为自动生成的 Clash DIRECT 规则（behavior: domain）。
 #########################################
 payload:
@@ -11500,6 +11500,7 @@ payload:
   - '+.amayad.com'
   - '+.amazfit.com'
   - '+.amazingsys.com'
+  - '+.amazonaws.com'
   - '+.ambassadorchina.com'
   - '+.amberbj.com'
   - '+.amberedu.com'
@@ -116443,6 +116444,7 @@ payload:
   - 'hospital.pku.edu.cn'
   - 'i.dell.com'
   - 'i.pki.goog'
+  - 'i.ys7.com'
   - 'images-cn-8.ssl-images-amazon.com'
   - 'images-cn.ssl-images-amazon.com'
   - 'imasdk.googleapis.com'
