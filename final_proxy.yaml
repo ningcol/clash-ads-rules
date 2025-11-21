@@ -1,7 +1,7 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-11-20T21:10:29Z
+# 更新时间: 2025-11-21T15:08:09Z
 # 说明: 本文件为自动生成的 Clash PROXY 规则（behavior: domain）。
 #########################################
 payload:
@@ -233,6 +233,7 @@ payload:
   - '+.21naturals.com'
   - '+.21sextury.com'
   - '+.21vv.cc'
+  - '+.22112211.xyz'
   - '+.228.net.tw'
   - '+.233abc.com'
   - '+.2371tom.com'
@@ -16435,7 +16436,9 @@ payload:
   - '+.nobel.se'
   - '+.nobelprize.org'
   - '+.nochubank.or.jp'
+  - '+.nodeimage.com'
   - '+.nodejs.org'
+  - '+.nodequality.com'
   - '+.nodeseek.com'
   - '+.nodesource.com'
   - '+.noisullifb.com'
