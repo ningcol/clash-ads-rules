@@ -1,7 +1,7 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-11-21T21:09:45Z
+# 更新时间: 2025-11-22T13:15:46Z
 # 说明: 本文件为自动生成的 Clash PROXY 规则（behavior: domain）。
 #########################################
 payload:
@@ -13997,7 +13997,6 @@ payload:
   - '+.lzjscript.com'
   - '+.lzmtnews.org'
   - '+.m-power.com'
-  - '+.m-team.cc'
   - '+.m.me'
   - '+.m.moegirl.org'
   - '+.m12.vc'
