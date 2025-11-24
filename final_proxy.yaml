@@ -1,7 +1,7 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-11-23T21:09:09Z
+# 更新时间: 2025-11-24T21:10:39Z
 # 说明: 本文件为自动生成的 Clash PROXY 规则（behavior: domain）。
 #########################################
 payload:
@@ -1004,6 +1004,7 @@ payload:
   - '+.ahtranny.com'
   - '+.ahvideosexe.com'
   - '+.ahxxx.club'
+  - '+.ai-sdk.dev'
   - '+.ai.binwang.me'
   - '+.ai.dev'
   - '+.ai7995.site'
@@ -17057,6 +17058,7 @@ payload:
   - '+.origin.tv'
   - '+.originalhulu.com'
   - '+.originalindianporn.com'
+  - '+.originlab.com'
   - '+.orithegame.com'
   - '+.orl.ly'
   - '+.orlandohurricane.com'
