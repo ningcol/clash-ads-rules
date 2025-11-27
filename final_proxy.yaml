@@ -1,7 +1,7 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-11-26T21:09:50Z
+# 更新时间: 2025-11-27T21:10:01Z
 # 说明: 本文件为自动生成的 Clash PROXY 规则（behavior: domain）。
 #########################################
 payload:
@@ -1167,6 +1167,7 @@ payload:
   - '+.akinator.com'
   - '+.akita-bank.co.jp'
   - '+.akow.org'
+  - '+.akstat.io'
   - '+.akthelp.com'
   - '+.al-islam.com'
   - '+.alabout.com'
@@ -24873,6 +24874,7 @@ payload:
   - '+.yandex.sx'
   - '+.yandex.tj'
   - '+.yandex.tm'
+  - '+.yandex.tr'
   - '+.yandex.ua'
   - '+.yandex.uz'
   - '+.yandexadexchange.net'

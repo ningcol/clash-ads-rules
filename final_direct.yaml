@@ -1,7 +1,7 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-11-26T21:09:51Z
+# 更新时间: 2025-11-27T21:10:02Z
 # 说明: 本文件为自动生成的 Clash DIRECT 规则（behavior: domain）。
 #########################################
 payload:
@@ -25704,6 +25704,7 @@ payload:
   - '+.cqshyzx.com'
   - '+.cqsifang.com'
   - '+.cqsj365.com'
+  - '+.cqsjb.com'
   - '+.cqsjbc.com'
   - '+.cqsjky.com'
   - '+.cqsjnzx.com'
@@ -102072,6 +102073,7 @@ payload:
   - '+.xhkt.tv'
   - '+.xhlaowu.com'
   - '+.xhlcsl.com'
+  - '+.xhlsgs.com'
   - '+.xhma.com'
   - '+.xhmedia.com'
   - '+.xhmwxy.com'
@@ -103592,6 +103594,7 @@ payload:
   - '+.xinwenku.com'
   - '+.xinwenlianbo.tv'
   - '+.xinwo.com'
+  - '+.xinwuji.com'
   - '+.xinwulan.com'
   - '+.xinxe.com'
   - '+.xinxi28.com'
@@ -108703,6 +108706,7 @@ payload:
   - '+.yokacdn.com'
   - '+.yokagames.com'
   - '+.yokaimg.com'
+  - '+.yokaverse.com'
   - '+.yokechina.com'
   - '+.yokmob.com'
   - '+.yokong.com'
