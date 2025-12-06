@@ -1,7 +1,7 @@
 #########################################
 # 作者: ningcol
 # 项目地址: https://github.com/ningcol/clash-rules
-# 更新时间: 2025-12-05T21:10:02Z
+# 更新时间: 2025-12-06T21:08:54Z
 # 说明: 本文件为自动生成的 Clash PROXY 规则（behavior: domain）。
 #########################################
 payload:
@@ -21753,6 +21753,7 @@ payload:
   - '+.tig-ol-bitties.live'
   - '+.tigervpn.com'
   - '+.tik-tokapi.com'
+  - '+.tiktok-row.net'
   - '+.tiktok.com'
   - '+.tiktokcdn-eu.com'
   - '+.tiktokcdn-us.com'
@@ -21760,6 +21761,8 @@ payload:
   - '+.tiktokd.net'
   - '+.tiktokd.org'
   - '+.tiktokeu-cdn.com'
+  - '+.tiktokglobalshopv.com'
+  - '+.tiktokminis.us'
   - '+.tiktokrow-cdn.com'
   - '+.tiktokv.com'
   - '+.tiktokv.eu'
@@ -25518,6 +25521,7 @@ payload:
   - '+.zopim.com'
   - '+.zorglist.com'
   - '+.zorrovpn.com'
+  - '+.zotero.org'
   - '+.zozotown.com'
   - '+.zpn.im'
   - '+.zqqpwz.com'
